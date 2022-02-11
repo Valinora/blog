@@ -1,0 +1,24 @@
+{% extends "base" %}
+{% block title %}Watch Me Learn{% endblock title %}
+
+{% block content %}
+<p>
+Soluta quas enim quasi et dolores deserunt consequuntur harum. Enim perspiciatis qui saepe aliquid aliquam. Ut ut occaecati nesciunt culpa optio pariatur.
+</p>
+<p>
+Accusantium ad aliquid voluptas sit. Eligendi ipsam cum quis quia praesentium. Dolore impedit asperiores pariatur molestiae sit fugit explicabo sapiente. Nostrum ullam cumque et et voluptatem aperiam ipsam enim.
+</p>
+
+<p>
+Et ex excepturi unde est dolores facilis officia. Tempore velit mollitia qui dicta molestiae illum quisquam reiciendis. Similique enim ex perspiciatis possimus culpa. Distinctio facere rerum totam animi quod maxime exercitationem. Qui cupiditate optio nemo est et cum facere eos. Architecto id ipsum in accusantium.
+</p>
+
+<p>
+Omnis necessitatibus voluptas eius accusantium vero ea explicabo. Eligendi blanditiis voluptatum ea voluptatem eius nulla. Nihil sit sit rem cumque saepe. Omnis quod iste sint nostrum exercitationem iusto debitis.
+</p>
+
+<p>
+Officiis omnis tenetur sint pariatur temporibus quam nesciunt. Dolorem iste reiciendis ratione aut. Dolores ut harum voluptatem autem molestiae tenetur est. Sapiente incidunt reiciendis qui non enim ea. Non ex sit ea.
+</p>
+
+{% endblock content %}

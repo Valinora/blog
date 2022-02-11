@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>{%block title %}{% endblock title %}</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@latest/build/pure-min.css">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@latest/build/grids-responsive-min.css">
+    <link rel="stylesheet" href="/css/main.css">
+
+</head>
+
+<body>
+    <div id="content" class="">
+        <div class="pure-g text-content">
+            <article class="pure-u-1 sheet">
+                {% block content %}{% endblock content %}
+            </article>
+        </div>
+    </div>
+    <div id="footer">Lorem Ipsum Dolor Sit Amet</div>
+</body>
+
+</html>
